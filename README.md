@@ -1,1 +1,1 @@
-# first repository for web design class
+# first repositori for web design class
