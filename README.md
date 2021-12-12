@@ -1,1 +1,1 @@
-# first project for web desgin class
+# first repositori for web desgin class
